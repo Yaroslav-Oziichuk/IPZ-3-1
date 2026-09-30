@@ -26,7 +26,7 @@ class Program
         rest2.PrintInfo();
         rest3.PrintInfo();
 
-        Console.WriteLine("\n Подача страв");
+        Console.WriteLine("Подача страв");
         rest1.ServeDish("Піца Маргарита");
         rest2.ServeDish("Паста Карбонара");
         rest3.ServeDish("Бургер Меню");
